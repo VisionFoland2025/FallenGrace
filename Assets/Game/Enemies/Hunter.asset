@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 209dc14b39048584c94412a82f8488c1, type: 3}
+  m_Name: Hunter
+  m_EditorClassIdentifier: Assembly-CSharp::FallenGrace.EnemyDef
+  DisplayName: "\u041D\u0435\u0431\u0435\u0441\u043D\u044B\u0439 \u043E\u0445\u043E\u0442\u043D\u0438\u043A"
+  Faction: 1
+  Shape: 3
+  IsBoss: 0
+  HP: 32
+  Speed: 3.7
+  Damage: 12
+  XP: 4
+  Size: 1.1
+  Color: {r: 0.9, g: 0.88, b: 0.8, a: 1}
+  Prefab: {fileID: 3451429257632045130, guid: 864725c4f3529d44091fd2eef70eafb6, type: 3}

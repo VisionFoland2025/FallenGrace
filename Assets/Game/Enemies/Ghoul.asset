@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 209dc14b39048584c94412a82f8488c1, type: 3}
+  m_Name: Ghoul
+  m_EditorClassIdentifier: Assembly-CSharp::FallenGrace.EnemyDef
+  DisplayName: "\u0423\u043F\u044B\u0440\u044C"
+  Faction: 0
+  Shape: 1
+  IsBoss: 0
+  HP: 16
+  Speed: 2.4
+  Damage: 8
+  XP: 2
+  Size: 1
+  Color: {r: 0.32, g: 0.38, b: 0.28, a: 1}
+  Prefab: {fileID: 596517757846323751, guid: 6336de112f16b1f428c924253f34938b, type: 3}
